@@ -13,21 +13,21 @@
     "name": "NagramX",
     "package_name": "nu.gpu.nagram",
     "current_version": "Unknown",
-    "latest_version": "1254",
-    "latest_version_url": "https://github.com/risin42/NagramX/releases/tag/1254",
+    "latest_version": "1256",
+    "latest_version_url": "https://github.com/risin42/NagramX/releases/tag/1256",
     "source": "github",
     "update_available": false,
-    "last_checked": "2026-07-08T03:33:55.812042+00:00"
+    "last_checked": "2026-08-04T03:26:36.306622+00:00"
   },
   "org.forkclient.messenger.beta": {
     "name": "Forkgram (github)",
     "package_name": "org.forkclient.messenger.beta",
     "current_version": "Unknown",
-    "latest_version": "12.9.1.0",
-    "latest_version_url": "https://github.com/forkgram/TelegramAndroid/releases/tag/12.9.1.0",
+    "latest_version": "12.9.2.0",
+    "latest_version_url": "https://github.com/forkgram/TelegramAndroid/releases/tag/12.9.2.0",
     "source": "github",
     "update_available": false,
-    "last_checked": "2026-07-31T03:40:04.900419+00:00"
+    "last_checked": "2026-08-04T03:26:36.392786+00:00"
   },
   "org.forkgram.messenger": {
     "name": "Forkgram",
@@ -73,11 +73,11 @@
     "name": "Plus Messenger",
     "package_name": "org.telegram.plus",
     "current_version": "12.6.4.0",
-    "latest_version": "12.9.0.0",
+    "latest_version": "12.9.0.1",
     "latest_version_url": "https://www.apkmirror.com/apk/rafalense/plus-messenger/",
     "source": "apkmirror",
     "update_available": true,
-    "last_checked": "2026-07-25T03:29:13.087880+00:00"
+    "last_checked": "2026-08-04T03:26:37.930522+00:00"
   },
   "tw.nekomimi.nekogram": {
     "name": "Nekogram",

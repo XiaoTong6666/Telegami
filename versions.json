@@ -83,21 +83,21 @@
     "name": "Nekogram",
     "package_name": "tw.nekomimi.nekogram",
     "current_version": "12.9.2",
-    "latest_version": "12.10.5",
-    "latest_version_url": "https://github.com/Nekogram/Nekogram/releases/tag/v12.10.5",
+    "latest_version": "12.10.6",
+    "latest_version_url": "https://github.com/Nekogram/Nekogram/releases/tag/v12.10.6",
     "source": "github",
     "update_available": true,
-    "last_checked": "2026-10-01T05:33:59.684375+00:00"
+    "last_checked": "2026-10-02T05:21:02.856140+00:00"
   },
   "uz.unnarsx.cherrygram": {
     "name": "Cherrygram",
     "package_name": "uz.unnarsx.cherrygram",
     "current_version": "10.5.0",
-    "latest_version": "11.2.0",
-    "latest_version_url": "https://github.com/arsLan4k1390/Cherrygram/releases/tag/11.2.0",
+    "latest_version": "11.3.0",
+    "latest_version_url": "https://github.com/arsLan4k1390/Cherrygram/releases/tag/11.3.0",
     "source": "github",
     "update_available": true,
-    "last_checked": "2026-08-31T05:15:57.238217+00:00"
+    "last_checked": "2026-10-02T05:21:03.003956+00:00"
   },
   "xyz.nextalone.nagram": {
     "name": "Nagram",

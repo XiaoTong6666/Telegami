@@ -33,11 +33,11 @@
     "name": "Forkgram",
     "package_name": "org.forkgram.messenger",
     "current_version": "12.9.2.0",
-    "latest_version": "12.10.4.0",
+    "latest_version": "13.0.2.0",
     "latest_version_url": "https://www.apkmirror.com/apk/forkgram/forkgram-f-droid-version/",
     "source": "apkmirror",
     "update_available": true,
-    "last_checked": "2026-09-20T04:41:10.702497+00:00"
+    "last_checked": "2026-10-18T04:14:09.295103+00:00"
   },
   "org.telegram.messenger": {
     "name": "Telegram (Official)",
@@ -73,11 +73,11 @@
     "name": "Plus Messenger",
     "package_name": "org.telegram.plus",
     "current_version": "12.9.2.0",
-    "latest_version": "12.10.1.1",
+    "latest_version": "13.0.2.0",
     "latest_version_url": "https://www.apkmirror.com/apk/rafalense/plus-messenger/",
     "source": "apkmirror",
     "update_available": true,
-    "last_checked": "2026-09-13T04:33:09.294643+00:00"
+    "last_checked": "2026-10-18T04:14:10.522652+00:00"
   },
   "tw.nekomimi.nekogram": {
     "name": "Nekogram",
